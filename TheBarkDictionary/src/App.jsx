@@ -1,10 +1,12 @@
 
 import './App.css'
+import Modal from "./components/Modal.jsx";
 
 function App() {
   return (
     <>
-      <div>This is the start of my React application.</div>
+      <div>The Bark Dictionary</div>
+      <Modal />
     </>
   )
 }
