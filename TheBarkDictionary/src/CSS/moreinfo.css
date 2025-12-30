@@ -1,0 +1,43 @@
+.more-info-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    margin: 1rem;
+    padding: 3rem;
+    border-radius: 50px;
+}
+
+.img-container {
+    display: inline-flex;
+    flex-direction: row;
+    gap: 7rem;
+    border-style: none;
+}
+
+img {
+    width: 800px;
+    height: 100%;
+    border-radius: 50px;
+    font-size: 3.8rem
+}
+
+
+.navigation {
+    width: 100px;
+    border-style: none;
+}
+
+.navigation:hover {
+    transform: scale(1.4);
+    transition: ease-in .2s;
+    cursor: pointer;
+}
