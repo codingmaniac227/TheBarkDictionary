@@ -1,18 +1,27 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f0f0f0;
+}
+
 #root {
   max-width: 1280px;
-  margin: 0 auto;
   padding: 2rem;
-  text-align: center;
   background-color: #4A70A9;
   border: 30px solid black;
-  min-height: 67%;
-}
+  text-align: center;
+  box-sizing: border-box;
 
-span {
-  margin-bottom: 2rem;
-  font-size: 2.7rem;
-}
+  margin-top: 5vh;
+  margin-bottom: 5vh;
 
-.read-the-docs {
-  color: #888;
+  max-height: 90vh;
+  overflow: auto;
 }
