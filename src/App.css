@@ -1,7 +1,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  height: 100vh;
+  height: 50%;
   overflow: hidden;
 }
 
@@ -14,7 +14,7 @@ html, body {
   text-align: center;
   box-sizing: border-box;
 
-  max-height: 90vh;
+  max-height: 50%;
   overflow: hidden;
   border-radius: 20px;
 }
