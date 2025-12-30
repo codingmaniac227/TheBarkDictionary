@@ -103,7 +103,7 @@ Install dependencies:
 npm install
 ```
 
-Create an environment file in the root directory:
+Create an environment file in the root directory(API USED - https://thedogapi.com/en):
 
 ```sh
 VITE_BARKAPPAPI=https://api.thedogapi.com/v1
