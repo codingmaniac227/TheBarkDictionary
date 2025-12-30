@@ -206,3 +206,14 @@ Navigate back to explore additional breeds.
 <p align="right">(<a href="#thebarkdictionary">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
+
+[contributors-shield]: https://img.shields.io/github/contributors/codingmaniac227/thebarkdictionary?style=for-the-badge
+[contributors-url]: https://github.com/codingmaniac227/thebarkdictionary/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/codingmaniac227/thebarkdictionary?style=for-the-badge
+[forks-url]: https://github.com/codingmaniac227/thebarkdictionary/network/members
+[stars-shield]: https://img.shields.io/github/stars/codingmaniac227/thebarkdictionary?style=for-the-badge
+[stars-url]: https://github.com/codingmaniac227/thebarkdictionary/stargazers
+[issues-shield]: https://img.shields.io/github/issues/codingmaniac227/thebarkdictionary?style=for-the-badge
+[issues-url]: https://github.com/codingmaniac227/thebarkdictionary/issues
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/marquise-davis/
