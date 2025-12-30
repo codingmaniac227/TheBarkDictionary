@@ -20,7 +20,7 @@
     <a href="https://github.com/codingmaniac227/TheBarkDictionary" target="_blank" rel="noopener"><strong>Explore the repo »</strong></a>
     <br />
     <br />
-    <a href="thebarkdictionary.netlify.app">View Demo (Local)</a>
+    <a href="https://thebarkdictionary.netlify.app">View Demo (Local)</a>
     ·
     <a href="https://github.com/codingmaniac227/TheBarkDictionary/issues" target="_blank" rel="noopener">Report Bug</a>
     ·
