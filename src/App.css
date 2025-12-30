@@ -1,27 +1,20 @@
 html, body {
-  height: 100%;
   margin: 0;
   padding: 0;
-}
-
-body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: #f0f0f0;
+  height: 100vh;
+  overflow: hidden;
 }
 
 #root {
   max-width: 1280px;
+  margin: 5vh auto;
   padding: 2rem;
   background-color: #4A70A9;
   border: 30px solid black;
   text-align: center;
   box-sizing: border-box;
 
-  margin-top: 5vh;
-  margin-bottom: 5vh;
-
   max-height: 90vh;
-  overflow: auto;
+  overflow: hidden;
+  border-radius: 20px;
 }
